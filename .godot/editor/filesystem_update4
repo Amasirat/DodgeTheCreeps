@@ -1,0 +1,9 @@
+res://scenes/player.tscn
+res://scenes/world.tscn
+res://scripts/Player.cs
+res://scenes/mob.tscn
+res://scripts/mob.cs
+res://scripts/World.cs
+res://scripts/Mob.cs
+res://scenes/hud.tscn
+res://scripts/Hud.cs

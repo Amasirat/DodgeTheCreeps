@@ -1,0 +1,17 @@
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/bin/Debug/DodgeTheCreeps.deps.json
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/bin/Debug/DodgeTheCreeps.runtimeconfig.json
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/bin/Debug/DodgeTheCreeps.dll
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/bin/Debug/DodgeTheCreeps.pdb
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/obj/Debug/DodgeTheCreeps.csproj.AssemblyReference.cache
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/obj/Debug/DodgeTheCreeps.GeneratedMSBuildEditorConfig.editorconfig
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/obj/Debug/DodgeTheCreeps.AssemblyInfoInputs.cache
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/obj/Debug/DodgeTheCreeps.AssemblyInfo.cs
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/obj/Debug/DodgeTheCreeps.csproj.CoreCompileInputs.cache
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/obj/Debug/DodgeTheCreeps.csproj.CopyComplete
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/obj/Debug/DodgeTheCreeps.dll
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/obj/Debug/refint/DodgeTheCreeps.dll
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/obj/Debug/DodgeTheCreeps.pdb
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/obj/Debug/DodgeTheCreeps.genruntimeconfig.cache
+/home/amasirat/learning/godot/DodgeTheCreeps/.godot/mono/temp/obj/Debug/ref/DodgeTheCreeps.dll
